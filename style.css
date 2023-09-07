@@ -1,0 +1,20 @@
+body{
+    background-color: honeydew;
+  }
+  hr{
+    
+     border-style: dotted none none none;
+     height: 0px;
+     width: 5%;
+     border-color: grey;
+     border-width: 5px;
+     
+  }
+  h1
+  {
+    color: #7DB9B6;
+  }
+  h3
+  {
+    COLOR:#3A98B9;
+  }
